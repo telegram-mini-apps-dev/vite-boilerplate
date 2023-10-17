@@ -5,11 +5,11 @@
   <br>
 </p>
 
-# Telegram Web Apps(TWA) + React + TypeScript + Vite
+# Telegram Mini Apps(TMA) + React + TypeScript + Vite
 
-Vite (which means "fast" in French) is a front-end build tool and development server that aims to provide a faster and leaner development experience for modern web projects. We will utilise Vite to create Telegram Web App example.
+Vite (which means "fast" in French) is a front-end build tool and development server that aims to provide a faster and leaner development experience for modern web projects. We will utilise Vite to create Telegram Mini App example.
 
-This template provides a minimal setup to get TWA working in Vite with React, TypeScript, HMR and some ESLint rules.
+This template provides a minimal setup to get TMA working in Vite with React, TypeScript, HMR and some ESLint rules.
 
 ## Usage
 
